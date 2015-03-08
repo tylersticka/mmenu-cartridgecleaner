@@ -1,13 +1,25 @@
+cartridgecleaner skin designed by Tyler Sticka
+http://github.com/tylersticka/mmenu-cartridgecleaner
+
+Tabs inspired by Seti UI: https://github.com/jesseweed/seti-ui
+Background photo by Dimitri Robert: https://flic.kr/p/8EQwVR
+
+---
+
+Original about.txt content follows...
+
+---
+
 Thanks to our patient wives and kids!
 
 minimenu is for DaveC!
 
-Minimenu : Skeezix
 Artwork/UI design : DaveC
-Testing/refinement : porg
+Minimenu/bugs : Skeezix
 
 Greets out to..
 EvilDragon
+Craigix
 mfk
 MWeston
 
@@ -16,9 +28,11 @@ and to the unsung heroes ;)
 DJWillis
 notaz
 vimacs
+skeezix
 cpasjuste
 pickle
 squidge
+DaveC
 
 mr spiv
 rlyeh
